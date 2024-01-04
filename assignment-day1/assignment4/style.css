@@ -33,6 +33,7 @@ input {
     font-size: 15px;
     margin-bottom: 30px;
     cursor: pointer;
+    border: none;
 }
 
 p {
