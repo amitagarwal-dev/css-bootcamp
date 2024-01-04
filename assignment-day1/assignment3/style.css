@@ -35,5 +35,6 @@ p {
     border-radius: 5px;
     border: 1px solid lightgray;
     background-color: white;
-    color: rgb(19, 165, 255)
+    color: rgb(19, 165, 255);
+    cursor: pointer;
 }
